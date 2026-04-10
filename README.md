@@ -1,102 +1,103 @@
-# 🌌 DeepVerse Lab
+<div align="center">
+  <img src="assets/banner.png" alt="DeepVerse Lab Banner" width="100%">
 
-<p align="center">
-  <b>Innovating Beyond Dimensions</b><br/>
-  <sub>Clean code • Scalable systems • Modern engineering</sub>
-</p>
+  # 🌌 DeepVerse Lab
+  **Innovating Beyond Dimensions**
+  
+  *Clean code • Scalable systems • Modern engineering*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-success" />
-  <img src="https://img.shields.io/badge/Focus-Software%20%26%20R%26D-blue" />
-  <img src="https://img.shields.io/badge/Open%20Source-Welcome-brightgreen" />
-</p>
+  <br />
+
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=github" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Software%20%26%20R%26D-blue?style=for-the-badge&logo=rocket" alt="Focus" />
+  <img src="https://img.shields.io/badge/Open%20Source-Welcome-brightgreen?style=for-the-badge&logo=opensourceinitiative" alt="Open Source" />
+</div>
 
 ---
 
 ## 👋 Welcome
 
-**DeepVerse Lab** is a technology-driven organization where ideas turn into reliable, production-ready software. If you just landed here — welcome! You’re looking at a space built with care, structure, and long-term vision.
+**DeepVerse Lab** is a technology-driven organization where ideas turn into reliable, production-ready software. We build with care, structure, and long-term vision.
 
+> [!TIP]
 > We believe good software should be **beautiful to look at**, **easy to maintain**, and **powerful under the hood**.
 
 ---
 
-## 🧭 What We Do
+## 🏛 Core Pillars
 
-* 🧠 Research & experimentation
-* ⚙️ Backend systems & APIs
-* 📱 Mobile app development
-* 🌐 Web applications
-* 🧩 Modular & reusable architectures
-
----
-
-## 🗂 How Our Repositories Are Organized
-
-Every project is designed to feel familiar the moment you open it:
-
-```
-project-name/
-├── docs/        # Documentation & specs
-├── src/         # Application source code
-├── tests/       # Automated tests
-├── .gitignore
-├── README.md
-└── LICENSE
-```
-
-This keeps things clean, readable, and contributor-friendly.
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" width="30%">
+      <br />
+      <img src="https://img.icons8.com/external-flat-icons-inmotus-design/64/000000/external-Brain-brain-flat-icons-inmotus-design-12.png" width="48" height="48" />
+      <br />
+      <strong>Research</strong>
+      <p>Pushing the boundaries of tech through experimentation.</p>
+    </td>
+    <td align="center" width="30%">
+      <br />
+      <img src="https://img.icons8.com/external-flat-icons-inmotus-design/64/000000/external-Connect-connections-flat-icons-inmotus-design-3.png" width="48" height="48" />
+      <br />
+      <strong>Scalability</strong>
+      <p>Robust backend systems built for massive growth.</p>
+    </td>
+    <td align="center" width="30%">
+      <br />
+      <img src="https://img.icons8.com/external-flat-icons-inmotus-design/64/000000/external-Blueprint-design-and-development-flat-icons-inmotus-design.png" width="48" height="48" />
+      <br />
+      <strong>Architecture</strong>
+      <p>Clean, modular, and maintainable project structures.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠 Technology Stack
 
-We work with modern and battle-tested tools:
+We leverage a modern ecosystem to deliver high-performance solutions:
 
-* **Backend**: Laravel, Flask
-* **Mobile**: Flutter
-* **Frontend**: React, HTML, CSS, JavaScript
-* **Database**: MySQL, SQLite
-* **DevOps**: Git, GitHub Actions, Docker
-
----
-
-## 🚀 Getting Started
-
-1. Pick a repository
-2. Read its `README.md`
-3. Follow setup steps
-4. Build something awesome ✨
+- **Backend**: `Laravel` • `Flask` • `FastAPI`
+- **Mobile**: `Flutter` • `React Native`
+- **Frontend**: `React.js` • `TypeScript` • `Next.js`
+- **Database**: `MySQL` • `PostgreSQL` • `SQLite`
+- **DevOps**: `Docker` • `CI/CD` • `Git`
 
 ---
 
-## 🤝 Contributing
+## 🗂 Project Standards
 
-We welcome curious minds and clean code.
+Every project at **DeepVerse Lab** follows a predefined structure for consistency:
 
-* Fork → Branch → Commit → Pull Request
-* Write readable code
-* Keep commits meaningful
-
-Quality over quantity — always.
-
----
-
-## 🌱 Philosophy
-
-* Clean architecture matters
-* Naming is important
-* Simplicity beats cleverness
-* Documentation is part of the product
+```text
+project-name/
+├── docs/        # Documentation & specs
+├── src/         # Application source code
+├── tests/       # Automated tests
+├── .github/     # Community & CI workflow
+├── README.md
+└── LICENSE
+```
 
 ---
 
-## 🔗 Links
+## 🚀 Get Involved
 
-* 🌍 GitHub: [https://github.com/DeepVerseLab](https://github.com/DeepVerseLab)
+We welcome curious minds and clean code. Every contribution helps us push boundaries further.
+
+- 🍴 **Fork** our projects to start experimenting.
+- 🌟 **Star** your favorite repositories to show support.
+- 🤝 **Contribute** by submitting a Pull Request.
 
 ---
 
-<p align="center">
+<div align="center">
+  <h3>Stay Connected</h3>
+  <a href="https://github.com/DeepVerseLab">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <br />
+  <br />
   <b>✨ Explore. Learn. Build with DeepVerse Lab.</b>
-</p>
+</div>
