@@ -58,9 +58,9 @@
 
 We leverage a modern ecosystem to deliver high-performance solutions:
 
-- **Backend**: `Laravel` • `Flask` • `FastAPI`
-- **Mobile**: `Flutter` • `React Native`
-- **Frontend**: `React.js` • `TypeScript` • `Next.js`
+- **Backend**: `Laravel` • `Flask` • `FastAPI` • `.NET` • `Go (Gin)` • `Django`
+- **Mobile**: `Flutter` 
+- **Frontend**: `React.js` • `TypeScript` • `Next.js` • `Blade`
 - **Database**: `MySQL` • `PostgreSQL` • `SQLite`
 - **DevOps**: `Docker` • `CI/CD` • `Git`
 
